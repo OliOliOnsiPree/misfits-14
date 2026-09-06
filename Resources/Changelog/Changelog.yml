@@ -11354,3 +11354,10 @@ Entries:
   id: 6413
   time: '2026-09-06T03:39:00.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1860
+- author: Enkidienne
+  changes:
+    - type: Add
+      message: Binocular crafting recipe to tinker workbench
+  id: 6414
+  time: '2026-09-06T23:39:18.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1876
