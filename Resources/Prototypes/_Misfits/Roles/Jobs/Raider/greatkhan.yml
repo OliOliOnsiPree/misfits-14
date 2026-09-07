@@ -27,7 +27,7 @@
   id: GreatKhanGear
   equipment:
     wallet: N14Wallet
-    id: MisfitsEightiesIDCard
+    id: MisfitsKhansIDCard
     head: MisfitsClothingHeadKhanHelmet
     eyes: MisfitsEyesGlassesSunglassesBig
     outerClothing: MisfitsClothingOuterKhansJacket
