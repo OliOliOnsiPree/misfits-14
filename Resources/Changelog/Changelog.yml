@@ -11361,3 +11361,16 @@ Entries:
   id: 6414
   time: '2026-09-06T23:39:18.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1876
+- author: Enkidienne
+  changes:
+    - type: Add
+      message: Throwing Knives to loadouts.
+    - type: Add
+      message: Throwing Knives to weapon workbenches
+    - type: Tweak
+      message: Throwing knives are now able to be dipped.
+    - type: Tweak
+      message: Throwing knives now fit in belts.
+  id: 6415
+  time: '2026-09-07T01:53:49.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1868
