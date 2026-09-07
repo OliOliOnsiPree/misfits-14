@@ -14,6 +14,9 @@
     species:
     - Human
     - Ghoul
+  - !type:CharacterPlaytimeRequirement
+    tracker: Wastelander
+    min: 28800 # 8 hours. Same as RoadRash for Eighties.
   startingGear: GreatKhanGear
   alwaysUseSpawner: true
   icon: "JobIconKhan"
@@ -23,7 +26,10 @@
 - type: startingGear
   id: GreatKhanGear
   equipment:
+    wallet: N14Wallet
+    id: MisfitsEightiesIDCard
     head: MisfitsClothingHeadKhanHelmet
+    eyes: MisfitsEyesGlassesSunglassesBig
     outerClothing: MisfitsClothingOuterKhansJacket
     jumpsuit: M14ClothingUniformKhansUniform
     shoes: MisfitsMilitarySteelTippedBoots
