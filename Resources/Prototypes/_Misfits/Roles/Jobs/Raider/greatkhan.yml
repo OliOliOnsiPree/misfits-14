@@ -28,7 +28,7 @@
   equipment:
     wallet: N14Wallet
     id: MisfitsKhansIDCard
-    head: MisfitsClothingHeadKhanHelmet
+    head: MisfitsClothingHeadRedBandana
     eyes: MisfitsEyesGlassesSunglassesBig
     outerClothing: MisfitsClothingOuterKhansJacket
     jumpsuit: M14ClothingUniformKhansUniform
@@ -40,6 +40,7 @@
   storage:
     back:
     - N14BoxPlasticFilledWastelander
+    - MisfitsClothingHeadKhanHelmet
     belt:
     - Magazine45SubMachineGun
     - Magazine45SubMachineGun
