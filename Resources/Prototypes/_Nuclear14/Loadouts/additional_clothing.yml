@@ -625,7 +625,7 @@
   category: Roles
   cost: 1
   requirements:
-    - !type:CharacterJobRequirement
+    - !type:CharacterDepartmentRequirement
       departments:
         - Townsfolk
   items:
